@@ -7,14 +7,14 @@ function Banner() {
         <div className="overlay"></div>
         <div className="container">
             <div className="inner-content">
-            <img src="/sajidiqbal.png" alt="profile" style="width: 1260px; height: 750px;" />
+            <img src="/sajidiqbal.png" alt="profile" />
                 <div className="personal-info">
                     <h1>Sajid Iqbal</h1>
                     <p>Frontend Developer, UI/UX Designer</p>
                     <div className="bio">
                         <div className="row">
-                            <div className="info">Age</div>
-                            <div className="detail">23Yr</div>
+                            {/*<div className="info">Age</div>
+                            <div className="detail">23Yr</div>*/}
                             <div className="info">Phone</div>
                             <div className="detail">+923216095137</div>
                             <div className="info">Email</div>
