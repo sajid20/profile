@@ -7,7 +7,7 @@ function Banner() {
         <div className="overlay"></div>
         <div className="container">
             <div className="inner-content">
-                <img src="https://images.pexels.com/photos/2474307/pexels-photo-2474307.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="profile" />
+            <img src="/sajidiqbal.png" alt="profile" style="width: 1260px; height: 750px;" />
                 <div className="personal-info">
                     <h1>Sajid Iqbal</h1>
                     <p>Frontend Developer, UI/UX Designer</p>
