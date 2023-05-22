@@ -20,7 +20,7 @@ function Banner() {
                             <div className="info">Email</div>
                             <div className="detail">amawas1@gmail.com</div>
                             <div className="info">Address</div>
-                            <div className="detail">1st Floor, A-33 Rajouri Garden, Ring Road, Opp. Flyover</div>
+                            <div className="detail">House no 4, Street 31-G Model Town Wah Cantt</div>
                         </div>
                     </div>
                     <div className="social">
